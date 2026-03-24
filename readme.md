@@ -1,4 +1,4 @@
-# EcoMart: Full-Stack E-commerce Platform
+# EcoMart: Full-Stack E-commerce Platform.
 
 #### EcoMart is an interactive, full stack E-commerce application designed to provide a seamless shopping experience for users.
 
